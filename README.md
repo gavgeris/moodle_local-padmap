@@ -16,3 +16,5 @@ Atomic pad assignment για Moodle 4.5.
 POST JSON στο `/local/padmap/ajax.php`:
 ```json
 { "action": "claim", "username": "jdoe", "pad": "https://...", "sesskey": "..." }
+
+
